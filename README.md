@@ -6,8 +6,8 @@ Google Cloud and NCAA® have teamed up to bring you this year’s version of the
 ### Instructions
 In this repo you'll find all the data along with my work throughout the Kaggle March Madness Machine Learning Challenge 2018. Most notably, check out `Kaggle March Madness Challenge 2018.ipynb` for my primary notebook and walkthrough of the process that I took to land in the 90th percentile. 
 
-### For More
-I wrote a Medium post on this experience as well. If interested, you can find the post and more about my methodology here: 
+### See the Post
+I wrote a Medium post on the experience as well. You can find the post and more about my methodology here: 
 
 [Machine Learning Madness: Predicting Every NCAA Tournament Matchup](https://medium.com/@conordewey3/machine-learning-madness-predicting-every-ncaa-tournament-matchup-7d9ce7d5fc6d)
 
